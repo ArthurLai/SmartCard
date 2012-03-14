@@ -1,0 +1,3 @@
+# Module smartcard
+# RPC service class, partial path of RPC policy file
+com.smartcard.client.GreetingService, F7905B93360D5668C11D7DC1DC1BDF88.gwt.rpc

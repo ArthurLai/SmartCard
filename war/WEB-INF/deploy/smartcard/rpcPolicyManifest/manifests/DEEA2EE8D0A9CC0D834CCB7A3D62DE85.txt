@@ -1,0 +1,2 @@
+serviceClass: com.smartcard.client.GreetingService
+path: F7905B93360D5668C11D7DC1DC1BDF88.gwt.rpc
